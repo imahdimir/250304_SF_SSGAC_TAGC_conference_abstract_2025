@@ -5,6 +5,26 @@
 .LSOverride
 .idea
 
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+~$*.doc
+~$*.xls
+~$*.ppt
+*.tmp
+*.temp
+# Excel backup files
+*.xlk
+# Word backup files
+*.wbk
+# PowerPoint backup files
+*.pptm
+# Access lock files
+*.laccdb
+# Publisher files
+*.TMP
+
 # Icon must end with two \r
 Icon
 
